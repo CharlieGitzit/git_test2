@@ -4,6 +4,7 @@ Note to self: Due to my inability to keep a hold of my environment due to excess
 
 P.S. Kind interesting navigating some of this new learned material with a bit more ease and peace of mind through practice and reptition. Who would've known just some silly dude could have such fun in this void. 
 
-Also, modifying once more due to grammatical error on commit, haha.
 
 - Rant Over
+
+- Done Here
